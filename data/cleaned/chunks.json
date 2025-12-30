@@ -1,0 +1,182 @@
+[
+  {
+    "content": "step-by-step introduction to machine learning concepts with intuitive explanations and simple real-world examples.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "beginner",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 180,
+      "url": "https://www.youtube.com/playlist?list=EXAMPLE1"
+    }
+  },
+  {
+    "content": "beginner-friendly overview of machine learning, models, and applications without heavy mathematics.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "beginner",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 150,
+      "url": "https://ocw.mit.edu/courses/example-ml-intro"
+    }
+  },
+  {
+    "content": "hands-on beginner tutorial using python and scikit-learn with simple exercises and datasets.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "beginner",
+      "language": "english",
+      "format": "course",
+      "cost": "free",
+      "duration_minutes": 140,
+      "url": "https://github.com/example/ml-python-beginner"
+    }
+  },
+  {
+    "content": "practical introduction to machine learning workflows, datasets, and evaluation for newcomers.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "beginner",
+      "language": "english",
+      "format": "article",
+      "cost": "free",
+      "duration_minutes": 120,
+      "url": "https://example.com/applied-ml-basics"
+    }
+  },
+  {
+    "content": "conceptual explanations of machine learning ideas designed for learners with no technical background.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "beginner",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 90,
+      "url": "https://youtube.com/playlist?list=EXAMPLE2"
+    }
+  },
+  {
+    "content": "intermediate-level machine learning course focusing on model training, evaluation, and feature engineering.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "intermediate",
+      "language": "english",
+      "format": "course",
+      "cost": "free",
+      "duration_minutes": 220,
+      "url": "https://github.com/example/sklearn-course"
+    }
+  },
+  {
+    "content": "covers applied machine learning techniques including cross-validation, pipelines, and model tuning.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "intermediate",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 200,
+      "url": "https://youtube.com/playlist?list=EXAMPLE3"
+    }
+  },
+  {
+    "content": "intermediate treatment of data preprocessing, supervised learning, and performance metrics.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "intermediate",
+      "language": "english",
+      "format": "article",
+      "cost": "free",
+      "duration_minutes": 180,
+      "url": "https://example.edu/ml-foundations"
+    }
+  },
+  {
+    "content": "focused tutorial on transforming raw data into effective features for ml models.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "intermediate",
+      "language": "english",
+      "format": "course",
+      "cost": "free",
+      "duration_minutes": 160,
+      "url": "https://example.com/feature-engineering-ml"
+    }
+  },
+  {
+    "content": "explains train-test splits, cross-validation, bias-variance tradeoff, and error analysis.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "intermediate",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 130,
+      "url": "https://youtube.com/playlist?list=EXAMPLE4"
+    }
+  },
+  {
+    "content": "high-level view of how machine learning models are built, deployed, and monitored in real systems.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "advanced",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 180,
+      "url": "https://youtube.com/playlist?list=EXAMPLE5"
+    }
+  },
+  {
+    "content": "covers end-to-end ml project design, from problem formulation to deployment considerations.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "advanced",
+      "language": "english",
+      "format": "article",
+      "cost": "free",
+      "duration_minutes": 150,
+      "url": "https://example.com/ml-project-lifecycle"
+    }
+  },
+  {
+    "content": "high-level overview of explainability techniques and model transparency in applied ml.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "advanced",
+      "language": "english",
+      "format": "course",
+      "cost": "free",
+      "duration_minutes": 170,
+      "url": "https://example.com/interpretable-ml"
+    }
+  },
+  {
+    "content": "discusses real-world challenges such as data drift, monitoring, and model maintenance.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "advanced",
+      "language": "english",
+      "format": "video",
+      "cost": "free",
+      "duration_minutes": 160,
+      "url": "https://youtube.com/playlist?list=EXAMPLE6"
+    }
+  },
+  {
+    "content": "high-level discussion of ethical considerations, bias, and responsible ml deployment.",
+    "metadata": {
+      "topic": "machine learning",
+      "level": "advanced",
+      "language": "english",
+      "format": "article",
+      "cost": "free",
+      "duration_minutes": 120,
+      "url": "https://example.edu/ethics-ml"
+    }
+  }
+]
